@@ -1,9 +1,13 @@
+<div style="align: center;">
+  <img alt="welcome" src="https://static.wixstatic.com/media/5b2299_474db7e2ebbb4e22916351e200991f96~mv2.gif" />
+</div>
+
 ## Olá! Eu sou o Mateus Lisboa 👋👋
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/mslisboa-dev?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B0KXEtiGTS3eSPSX2Fpyyfg%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mathewslysboa@gmail.com)
+)](mailto:mathewslysboa@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 )](https://www.instagram.com/mathews.s_lisboa/)
 
